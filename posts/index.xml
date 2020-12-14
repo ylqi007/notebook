@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site - Octopress</title>
-    <link>ylqi007.github.io/notebook/</link>
-    <description>Recent content on My New Hugo Site - Octopress</description>
+    <title>Posts on My New Hugo Site - Octopress</title>
+    <link>ylqi007.github.io/notebook/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site - Octopress</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 13 Dec 2020 23:58:51 -0600</lastBuildDate>
     
-	<atom:link href="ylqi007.github.io/notebook/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ylqi007.github.io/notebook/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>ylqi007.github.io/notebook/posts/my-second-post/</guid>
       <description>This is the second post.</description>
-    </item>
-    
-    <item>
-      <title>My First Artical</title>
-      <link>ylqi007.github.io/notebook/articals/my-first-artical/</link>
-      <pubDate>Sun, 13 Dec 2020 23:57:06 -0600</pubDate>
-      
-      <guid>ylqi007.github.io/notebook/articals/my-first-artical/</guid>
-      <description>This is the first artical.</description>
     </item>
     
     <item>
