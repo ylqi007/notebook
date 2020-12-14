@@ -3,26 +3,15 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>ylqi007.github.io/notebook/posts/</loc>
-    <lastmod>2020-12-13T15:57:19-06:00</lastmod>
+    <loc>https://ylqi007.github.io/notebook/categories/</loc>
   </url>
   
   <url>
-    <loc>ylqi007.github.io/notebook/posts/java/spring-boot-01/</loc>
-    <lastmod>2020-12-13T15:57:19-06:00</lastmod>
+    <loc>https://ylqi007.github.io/notebook/</loc>
   </url>
   
   <url>
-    <loc>ylqi007.github.io/notebook/</loc>
-    <lastmod>2020-12-13T15:57:19-06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>ylqi007.github.io/notebook/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>ylqi007.github.io/notebook/tags/</loc>
+    <loc>https://ylqi007.github.io/notebook/tags/</loc>
   </url>
   
 </urlset>
